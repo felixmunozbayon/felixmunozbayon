@@ -1,0 +1,16 @@
+body {
+	background-color:blue;
+	color:white;
+	margin-top:20%;
+	margin-left:30%;
+	line-height:2rem;
+}
+
+input[type="text"] {
+	background-color:red;
+	color:yellow;
+}
+
+label + input{
+	margin-left:3%;
+}
